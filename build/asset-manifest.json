@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Todo-App/static/css/main.ce36e5dc.css",
+    "main.js": "/Todo-App/static/js/main.b964dfd6.js",
+    "static/media/lupa-o.png": "/Todo-App/static/media/lupa-o.a47e9f760804caa104b6.png",
+    "static/media/lupa-c.png": "/Todo-App/static/media/lupa-c.61c0ef780bb1c82108bd.png",
+    "static/media/cheque.png": "/Todo-App/static/media/cheque.e4b27255ca7e6910f0e7.png",
+    "static/media/cheque-c.png": "/Todo-App/static/media/cheque-c.0577637110b14351436e.png",
+    "index.html": "/Todo-App/index.html",
+    "main.ce36e5dc.css.map": "/Todo-App/static/css/main.ce36e5dc.css.map",
+    "main.b964dfd6.js.map": "/Todo-App/static/js/main.b964dfd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce36e5dc.css",
+    "static/js/main.b964dfd6.js"
+  ]
+}
