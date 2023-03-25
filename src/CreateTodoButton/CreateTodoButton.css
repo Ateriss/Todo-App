@@ -1,0 +1,35 @@
+.button {
+    
+    clip-path: polygon(0 0, 80% 0%, 100% 10%, 100% 100%, 80% 100%, 20% 100%, 0 88%, 0% 20%);
+    border: 1px solid var(--color-medio);
+    background-color: var(--color-medio);
+    color: var(--color-muyclaro);
+    font-size: 1rem;
+    font-weight: 700;
+    padding: .5rem;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    transition: 0.3s ease-in-out;
+
+  }
+  
+  .button:hover {
+    letter-spacing: 3px;
+  }
+  
+  .button:active {
+    transform: scale(0.95);
+    background-color: var(--color-mediooscuro);
+    color: var(--color-muyclaro);
+  }
+  
+  .button:focus {
+    outline: none;
+  }
+
+  .one{
+    z-index: 1000;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }

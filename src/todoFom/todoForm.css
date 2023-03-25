@@ -1,0 +1,42 @@
+.btn__form{
+    
+}
+
+.form{
+    width: 90%;
+    background-color: var(--color-muyclaro);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: all .5s ease;
+}
+
+.form textarea{
+    outline: none;
+    margin: 20px auto 10px;
+    width: calc(80% - 20px);
+    border: none;
+    background-color: var(--color-medioclaro);
+    padding: 10px;
+    color: var(--color-mediooscuro);
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Montserrat';
+}
+
+.form textarea::placeholder{
+    color: var(--color-medio);
+}
+
+.form textarea:focus{
+    border: 2px solid var(--color-medio);
+}
+
+.form div{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 15px auto;
+}
